@@ -1,0 +1,26 @@
+{
+  "ModId": "reloaded.template.aobscan",
+  "ModName": "Simple AOB Scan Template",
+  "ModAuthor": "devz",
+  "ModVersion": "1.0.0",
+  "ModDescription": "Description",
+  "ModDll": "reloaded.template.aobscan.dll",
+  "ModIcon": "Preview.png",
+  "ModR2RManagedDll32": "x86/reloaded.template.aobscan.dll",
+  "ModR2RManagedDll64": "x64/reloaded.template.aobscan.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "reloaded.template.aobscan.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "legobatman.exe"
+  ],
+  "ProjectUrl": ""
+}
